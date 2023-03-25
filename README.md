@@ -1,1 +1,1 @@
-# lesso-6
+# lesson-6
